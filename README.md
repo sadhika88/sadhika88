@@ -15,7 +15,7 @@ I believe that every bug caught early makes the product **stronger, faster, and 
 ---
 
 ## 🔧 **Tech Toolbox**  
-💻 **Languages:** `Java`, `SQL`  
+💻 **Languages:** `Java`, `SQL` 
 ⚡ **Automation Tools:** Selenium · TestNG · Maven  
 🗄️ **Databases:** MySQL 
 📂 **Other Skills:** Manual Testing · Bug Tracking · Test Case Writing  
