@@ -23,7 +23,7 @@ I believe that every bug caught early makes the product **stronger, faster, and 
 ---
 
 ## 🌟 **Let’s Connect**  
-💬 Ask me about **Manual Testing | Selenium Automation | TestNG | API Testing | SQL**  
+💬 Ask me about **Manual Testing | Selenium Automation | TestNG  | SQL**  
 📧 Reach me at: **[sksadhika88@gmail.com](mailto:sksadhika88@gmail.com)**  
 🔗 Connect on **[LinkedIn](https://www.linkedin.com/in/sadhika-muzeeb-491073355/)**  
 🌍 GitHub Portfolio: [github.com/sadhika88](https://github.com/sadhika88)  
