@@ -1,31 +1,37 @@
-![logo]( https://miro.medium.com/v2/resize:fit:1100/format:webp/1*URVbNQirYASEkRkZPRSv4A.gif)
-<h1 align="center">Hi 👋, I'm Sadhika</h1>
-<h3 align="center">Software Tester (Selenium With Java) & Manual Tester</h3>
-<img align=”right”  alt=”Testing” width=”400” src=https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif>
+:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadhika88&label=Profile%20views&color=0e75b6&style=flat" alt="sadhika88" /> </p>
+🌸 Hey, I’m Sadhika 👩‍💻✨
 
-- 🌱 I’m Certified **Testing Tools**
+Welcome to my GitHub profile! I’m a Software Tester (Manual + Automation) passionate about delivering quality-driven software solutions. I believe that every bug caught early makes the product stronger, faster, and more reliable.
 
-- 👨💻 All of my projects are available at [www.linkedin.com/in/shaik-sadhika-491073355](www.linkedin.com/in/shaik-sadhika-491073355)
+💻 My expertise lies in Selenium with Java, TestNG, and Hybrid Frameworks. Alongside, I have a strong foundation in Manual Testing, API Testing (Postman, REST Assured), and Database Testing (SQL, Oracle). I am also exploring Cucumber, Playwright, Appium, and Python Selenium to keep pace with modern QA practices.
 
-- 💬 Ask me about **Manual Testing,Automation Testing**
+🌱 After a career break, I have upskilled myself through continuous learning and hands-on projects. Today, I am actively working on building a portfolio of meaningful testing projects to showcase my skills and capabilities. My focus is on writing efficient test cases, automating workflows, and contributing to flawless product releases.
 
-- 📫 How to reach me **sksadhika88@gmail.com**
+🚀 What I’m Doing Now
 
-- ⚡ Fun fact **I am funny 😆**
+✨ Automating real-time projects with Selenium + Java
+📝 Designing and executing detailed manual & automation test cases
+🛠️ Enhancing my GitHub portfolio with testing frameworks and tools
+🌐 Preparing for opportunities in QA Automation & Manual Testing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shaik-sadhika-491073355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-sadhika-491073355" height="30" width="40" /></a>
-</p>
+🔧 Tech Toolbox
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+💻 Languages: Java, SQL
+⚡ Automation Tools: Selenium, TestNG, Maven, JUnit
+🌐 API Testing: Postman, REST Assured
+🗄️ Databases: MySQL, Oracle
+📂 Other Skills: Manual Testing, Bug Tracking, Test Case Writing
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadhika88&show_icons=true&locale=en&layout=compact" alt="sadhika88" /></p>
+🌟 Let’s Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadhika88&show_icons=true&locale=en" alt="sadhika88" /></p>
+💬 Ask me about Manual Testing | Selenium Automation | TestNG | API Testing | SQL
+📧 Reach me at: sksadhika88@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadhika88&" alt="sadhika88" /></p>
+🔗 Connect on LinkedIn---->www.linkedin.com/in/sadhika-muzeeb-491073355
 
+🌍 GitHub Portfolio: https://github.com/sadhika88
+
+💎 Quote I Believe In
+
+“Quality is never an accident; it is always the result of intelligent effort.” ✨
